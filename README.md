@@ -16,19 +16,19 @@ Green pointes represent for true landmarks, while blue ones stand for prediction
 
 ##### On 112*112 image
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/0.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/1.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/2.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/0.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/1.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/2.jpg)
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/14.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/15.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/16.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/14.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/15.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/16.jpg)
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/50.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/56.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/76.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/50.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/56.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/76.jpg)
 
 ##### On original size image
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin182.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/origin182.jpg)
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin114.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/origin114.jpg)
 
-![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin19.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/origin19.jpg)
 
 
 
