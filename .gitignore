@@ -1,5 +1,4 @@
 *.csv
-*.jpg
 /trained_models
 /I
 /II
