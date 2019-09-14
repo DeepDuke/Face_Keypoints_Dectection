@@ -292,6 +292,7 @@ class MyNet2(nn.Module):
         x = self.Branch(x)
         return x
 
+
 if __name__ == '__main__':
     train_data_path = '..\\train.txt'
     train_mode = 'train'
