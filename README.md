@@ -20,8 +20,7 @@ Green pointes represent for true landmarks, while blue ones stand for prediction
 
 ![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/14.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/15.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/16.jpg)
 
-![]
-(https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/50.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/56.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/76.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/50.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/56.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/raw/master/Figures/76.jpg)
 
 
 #####  On original size image
