@@ -18,21 +18,21 @@ Green pointes represent for true landmarks, while blue ones stand for prediction
 
 <center>
 
-![](\\Figures\\0.jpg)![](\\Figures\\1.jpg)![](\\Figures\\2.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/0.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/1.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/2.jpg)
 
-![](\\Figures\\14.jpg)![](\\Figures\\15.jpg)![](\\Figures\\16.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/14.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/15.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/16.jpg)
 
-![](\\Figures\\50.jpg)![](\\Figures\\56.jpg)![](\\Figures\\76.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/50.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/56.jpg)![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/76.jpg)
 
 </center>
 
 ##### On original size image
 
-![](\\Figures\\origin182.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin182.jpg)
 
-![](\\Figures\\origin114.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin114.jpg)
 
-![](\\Figures\\origin19.jpg)
+![](https://github.com/DeepDuke/Face_Keypoints_Dectection/blob/master/Figures/origin19.jpg)
 
 
 
